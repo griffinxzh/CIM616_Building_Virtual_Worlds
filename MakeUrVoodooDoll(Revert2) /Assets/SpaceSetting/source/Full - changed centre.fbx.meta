@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 45173ef45650c4bb189d677f00733a99
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blanket
+    100002: Book
+    100004: Book001
+    100006: Book002
+    100008: Bowl
+    100010: Box001
+    100012: burner
+    100014: Candles
+    100016: Candles001
+    100018: Chair
+    100020: Chest
+    100022: Cloth
+    100024: Coins
+    100026: Crate
+    100028: Crate001
+    100030: Crate002
+    100032: Crate003
+    100034: Cylinder001
+    100036: doll
+    100038: Door
+    100040: Drawing large
+    100042: Drawing small
+    100044: Drawing small2
+    100046: Drawing small3
+    100048: Drawing small4
+    100050: //RootNode
+    100052: globe
+    100054: Globe stand
+    100056: Harpoon
+    100058: Harpoon001
+    100060: Harpoon002
+    100062: Harpoon003
+    100064: Knot
+    100066: Mask
+    100068: Room
+    100070: Sphere001
+    100072: spoon
+    100074: Wine
+    100076: Wine crate
+    100078: Wine2
+    100080: Wine3
+    100082: Wine4
+    100084: Wine5
+    100086: Wine6
+    100088: Wine7
+    400000: Blanket
+    400002: Book
+    400004: Book001
+    400006: Book002
+    400008: Bowl
+    400010: Box001
+    400012: burner
+    400014: Candles
+    400016: Candles001
+    400018: Chair
+    400020: Chest
+    400022: Cloth
+    400024: Coins
+    400026: Crate
+    400028: Crate001
+    400030: Crate002
+    400032: Crate003
+    400034: Cylinder001
+    400036: doll
+    400038: Door
+    400040: Drawing large
+    400042: Drawing small
+    400044: Drawing small2
+    400046: Drawing small3
+    400048: Drawing small4
+    400050: //RootNode
+    400052: globe
+    400054: Globe stand
+    400056: Harpoon
+    400058: Harpoon001
+    400060: Harpoon002
+    400062: Harpoon003
+    400064: Knot
+    400066: Mask
+    400068: Room
+    400070: Sphere001
+    400072: spoon
+    400074: Wine
+    400076: Wine crate
+    400078: Wine2
+    400080: Wine3
+    400082: Wine4
+    400084: Wine5
+    400086: Wine6
+    400088: Wine7
+    2100000: Table
+    2100002: Globe stand
+    2100004: Chair
+    2100006: Harpoon
+    2100008: Chest
+    2100010: Blue Book
+    2100012: Green Book
+    2100014: Red book
+    2100016: Candles
+    2100018: Coins
+    2100020: Rum Crate
+    2100022: Rum
+    2100024: Map
+    2100026: Drawing
+    2100028: Mask
+    2100030: Hanging Doll
+    2100032: Voodoo Doll
+    2100034: Desk
+    2100036: Crate
+    2100038: globe
+    2100040: Door
+    2100042: Bowl
+    2100044: Spoon
+    2100046: room
+    2100048: Incense rope
+    2100050: Incense burner
+    2100052: Hammock
+    2100054: Blanket
+    2300000: Blanket
+    2300002: Book
+    2300004: Book001
+    2300006: Book002
+    2300008: Bowl
+    2300010: Box001
+    2300012: burner
+    2300014: Candles
+    2300016: Candles001
+    2300018: Chair
+    2300020: Chest
+    2300022: Cloth
+    2300024: Coins
+    2300026: Crate
+    2300028: Crate001
+    2300030: Crate002
+    2300032: Crate003
+    2300034: Cylinder001
+    2300036: doll
+    2300038: Door
+    2300040: Drawing large
+    2300042: Drawing small
+    2300044: Drawing small2
+    2300046: Drawing small3
+    2300048: Drawing small4
+    2300050: globe
+    2300052: Globe stand
+    2300054: Harpoon
+    2300056: Harpoon001
+    2300058: Harpoon002
+    2300060: Harpoon003
+    2300062: Knot
+    2300064: Mask
+    2300066: Room
+    2300068: Sphere001
+    2300070: spoon
+    2300072: Wine
+    2300074: Wine crate
+    2300076: Wine2
+    2300078: Wine3
+    2300080: Wine4
+    2300082: Wine5
+    2300084: Wine6
+    2300086: Wine7
+    3300000: Blanket
+    3300002: Book
+    3300004: Book001
+    3300006: Book002
+    3300008: Bowl
+    3300010: Box001
+    3300012: burner
+    3300014: Candles
+    3300016: Candles001
+    3300018: Chair
+    3300020: Chest
+    3300022: Cloth
+    3300024: Coins
+    3300026: Crate
+    3300028: Crate001
+    3300030: Crate002
+    3300032: Crate003
+    3300034: Cylinder001
+    3300036: doll
+    3300038: Door
+    3300040: Drawing large
+    3300042: Drawing small
+    3300044: Drawing small2
+    3300046: Drawing small3
+    3300048: Drawing small4
+    3300050: globe
+    3300052: Globe stand
+    3300054: Harpoon
+    3300056: Harpoon001
+    3300058: Harpoon002
+    3300060: Harpoon003
+    3300062: Knot
+    3300064: Mask
+    3300066: Room
+    3300068: Sphere001
+    3300070: spoon
+    3300072: Wine
+    3300074: Wine crate
+    3300076: Wine2
+    3300078: Wine3
+    3300080: Wine4
+    3300082: Wine5
+    3300084: Wine6
+    3300086: Wine7
+    4300000: Knot
+    4300002: Globe stand
+    4300004: Chair
+    4300006: Harpoon
+    4300008: Chest
+    4300010: Book
+    4300012: Book001
+    4300014: Book002
+    4300016: Candles
+    4300018: Candles001
+    4300020: Coins
+    4300022: Wine crate
+    4300024: Wine
+    4300026: Wine2
+    4300028: Wine3
+    4300030: Wine4
+    4300032: Wine5
+    4300034: Wine6
+    4300036: Wine7
+    4300038: Drawing large
+    4300040: Drawing small
+    4300042: Drawing small2
+    4300044: Drawing small3
+    4300046: Drawing small4
+    4300048: Mask
+    4300050: doll
+    4300052: Sphere001
+    4300054: Box001
+    4300056: Crate
+    4300058: Crate001
+    4300060: Crate002
+    4300062: Crate003
+    4300064: globe
+    4300066: Harpoon001
+    4300068: Harpoon002
+    4300070: Harpoon003
+    4300072: Door
+    4300074: Bowl
+    4300076: spoon
+    4300078: Room
+    4300080: Cylinder001
+    4300082: burner
+    4300084: Cloth
+    4300086: Blanket
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: db53b96f6e87b4dfa8eaabbfba85f594
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: arms
+    100006: arms outline
+    100008: belt
+    100010: belt outline
+    100012: belt under
+    100014: belt under outline
+    100016: Bone
+    100018: Bone 1
+    100020: Bone.001
+    100022: Bone.002
+    100024: Bone.003
+    100026: Bone.004
+    100028: Bone.005
+    100030: Bone.006
+    100032: Bone.007
+    100034: Bone.008
+    100036: Bone.009
+    100038: Bone.010
+    100040: Bone.011
+    100042: Bone.012
+    100044: Bone.013
+    100046: boots
+    100048: boots outline
+    100050: brush
+    100052: brush outline
+    100054: char control
+    100056: chest
+    100058: chest.001
+    100060: chest.002
+    100062: eyebrows and eyelids
+    100064: eyes
+    100066: f_index.01.L
+    100068: f_index.01.R
+    100070: f_index.02.L
+    100072: f_index.02.R
+    100074: f_index.03.L
+    100076: f_index.03.R
+    100078: f_middle.01.L
+    100080: f_middle.01.R
+    100082: f_middle.02.L
+    100084: f_middle.02.R
+    100086: f_middle.03.L
+    100088: f_middle.03.R
+    100090: f_pinky.01.L
+    100092: f_pinky.01.R
+    100094: f_pinky.02.L
+    100096: f_pinky.02.R
+    100098: f_pinky.03.L
+    100100: f_pinky.03.R
+    100102: f_ring.01.L
+    100104: f_ring.01.R
+    100106: f_ring.02.L
+    100108: f_ring.02.R
+    100110: f_ring.03.L
+    100112: f_ring.03.R
+    100114: foot control.L
+    100116: foot control.R
+    100118: foot roll.L
+    100120: foot roll.R
+    100122: foot.L
+    100124: foot.R
+    100126: forearm.L
+    100128: forearm.R
+    100130: hair
+    100132: hair outline
+    100134: hand.L
+    100136: hand.R
+    100138: head
+    100140: head 1
+    100142: head outline
+    100144: heel.L
+    100146: heel.R
+    100148: hips
+    100150: legs
+    100152: legs outline
+    100154: MAGIC RIG
+    100156: neck
+    100158: scissors base
+    100160: scissors bolts
+    100162: scissors left
+    100164: scissors left 1
+    100166: scissors left outline
+    100168: scissors right
+    100170: scissors right 1
+    100172: scissors right outline
+    100174: scroll
+    100176: scroll outline
+    100178: shin.L
+    100180: shin.R
+    100182: shorts
+    100184: shorts outline
+    100186: shoulder.L
+    100188: shoulder.R
+    100190: spine
+    100192: //RootNode
+    100194: thigh.L
+    100196: thigh.R
+    100198: thumb.02.L
+    100200: thumb.02.R
+    100202: thumb.03.L
+    100204: thumb.03.R
+    100206: toe target.L
+    100208: toe target.R
+    100210: toe.L
+    100212: toe.R
+    100214: torso
+    100216: torso outline
+    100218: upper_arm.L
+    100220: upper_arm.R
+    100222: watch
+    100224: watch outline
+    400000: Armature
+    400002: Armature.001
+    400004: arms
+    400006: arms outline
+    400008: belt
+    400010: belt outline
+    400012: belt under
+    400014: belt under outline
+    400016: Bone
+    400018: Bone 1
+    400020: Bone.001
+    400022: Bone.002
+    400024: Bone.003
+    400026: Bone.004
+    400028: Bone.005
+    400030: Bone.006
+    400032: Bone.007
+    400034: Bone.008
+    400036: Bone.009
+    400038: Bone.010
+    400040: Bone.011
+    400042: Bone.012
+    400044: Bone.013
+    400046: boots
+    400048: boots outline
+    400050: brush
+    400052: brush outline
+    400054: char control
+    400056: chest
+    400058: chest.001
+    400060: chest.002
+    400062: eyebrows and eyelids
+    400064: eyes
+    400066: f_index.01.L
+    400068: f_index.01.R
+    400070: f_index.02.L
+    400072: f_index.02.R
+    400074: f_index.03.L
+    400076: f_index.03.R
+    400078: f_middle.01.L
+    400080: f_middle.01.R
+    400082: f_middle.02.L
+    400084: f_middle.02.R
+    400086: f_middle.03.L
+    400088: f_middle.03.R
+    400090: f_pinky.01.L
+    400092: f_pinky.01.R
+    400094: f_pinky.02.L
+    400096: f_pinky.02.R
+    400098: f_pinky.03.L
+    400100: f_pinky.03.R
+    400102: f_ring.01.L
+    400104: f_ring.01.R
+    400106: f_ring.02.L
+    400108: f_ring.02.R
+    400110: f_ring.03.L
+    400112: f_ring.03.R
+    400114: foot control.L
+    400116: foot control.R
+    400118: foot roll.L
+    400120: foot roll.R
+    400122: foot.L
+    400124: foot.R
+    400126: forearm.L
+    400128: forearm.R
+    400130: hair
+    400132: hair outline
+    400134: hand.L
+    400136: hand.R
+    400138: head
+    400140: head 1
+    400142: head outline
+    400144: heel.L
+    400146: heel.R
+    400148: hips
+    400150: legs
+    400152: legs outline
+    400154: MAGIC RIG
+    400156: neck
+    400158: scissors base
+    400160: scissors bolts
+    400162: scissors left
+    400164: scissors left 1
+    400166: scissors left outline
+    400168: scissors right
+    400170: scissors right 1
+    400172: scissors right outline
+    400174: scroll
+    400176: scroll outline
+    400178: shin.L
+    400180: shin.R
+    400182: shorts
+    400184: shorts outline
+    400186: shoulder.L
+    400188: shoulder.R
+    400190: spine
+    400192: //RootNode
+    400194: thigh.L
+    400196: thigh.R
+    400198: thumb.02.L
+    400200: thumb.02.R
+    400202: thumb.03.L
+    400204: thumb.03.R
+    400206: toe target.L
+    400208: toe target.R
+    400210: toe.L
+    400212: toe.R
+    400214: torso
+    400216: torso outline
+    400218: upper_arm.L
+    400220: upper_arm.R
+    400222: watch
+    400224: watch outline
+    2100000: magic body
+    2100002: BLACK
+    2100004: magic scissors
+    2100006: magic belt
+    2100008: magic eyes
+    2100010: magic hair
+    4300000: legs
+    4300002: legs outline
+    4300004: arms outline
+    4300006: scissors right
+    4300008: watch
+    4300010: eyes
+    4300012: hair
+    4300014: shorts
+    4300016: torso
+    4300018: boots
+    4300020: belt under
+    4300022: head
+    4300024: eyebrows and eyelids
+    4300026: arms
+    4300028: belt
+    4300030: scissors left
+    4300032: scissors bolts
+    4300034: scissors left outline
+    4300036: belt outline
+    4300038: head outline
+    4300040: belt under outline
+    4300042: boots outline
+    4300044: torso outline
+    4300046: shorts outline
+    4300048: hair outline
+    4300050: watch outline
+    4300052: scissors right outline
+    4300054: scroll outline
+    4300056: scroll
+    4300058: brush outline
+    4300060: brush
+    7400000: MAGIC RIG|ATTACK IDLE
+    7400002: MAGIC RIG|KID RUN CYCLE
+    7400004: MAGIC RIG|MAGIC CYCLE
+    7400006: Armature.001|MAGIC BRUSH
+    7400008: Armature.001|SCROLL MAGIC
+    7400010: Armature|MAGIC BRUSH
+    9500000: //RootNode
+    13700000: arms
+    13700002: arms outline
+    13700004: belt
+    13700006: belt outline
+    13700008: belt under
+    13700010: belt under outline
+    13700012: boots
+    13700014: boots outline
+    13700016: brush
+    13700018: brush outline
+    13700020: eyebrows and eyelids
+    13700022: eyes
+    13700024: hair
+    13700026: hair outline
+    13700028: head
+    13700030: head outline
+    13700032: legs
+    13700034: legs outline
+    13700036: scissors bolts
+    13700038: scissors left
+    13700040: scissors left outline
+    13700042: scissors right
+    13700044: scissors right outline
+    13700046: scroll
+    13700048: scroll outline
+    13700050: shorts
+    13700052: shorts outline
+    13700054: torso
+    13700056: torso outline
+    13700058: watch
+    13700060: watch outline
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
